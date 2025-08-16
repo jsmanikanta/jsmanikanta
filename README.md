@@ -1,6 +1,5 @@
 - 👋 Hi, I’m jsmanikanta
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning web development
 - 📫 How to reach me jsmanikanta13@gmail.com
 - 😄 Pronouns:He/Him
 
