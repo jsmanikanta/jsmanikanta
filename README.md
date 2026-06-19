@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I <br>Built **MyBookHub & PrintKart** – a student marketplace + printing platform using MERN stack  <br><br>👯 I’m looking to collaborate on  <br>Full-stack projects, especially **real-world web apps & student-focused platforms**  <br><br>🤝 I’m looking for help with  <br>Scaling applications, backend optimization, and deployment (AWS, system design)  <br><br>🌱 I’m currently learning  <br>**Data Structures & Algorithms**, system design, and advanced backend development  <br><br>💬 Ask me about  <br>MERN stack, DSA, building projects from scratch, or startup ideas  <br><br>⚡ Fun fact  <br>I’m an EEE student who loves turning ideas into real products 🚀
+I Built **MyBookHub & PrintKart** – a student marketplace + printing platform using MERN stack  <br><br>👯 I’m looking to collaborate on  <br>Full-stack projects, especially **real-world web apps & student-focused platforms**  <br><br>🤝 I’m looking for help with  <br>Scaling applications, backend optimization, and deployment (AWS, system design)  <br><br>🌱 I’m currently learning  <br>**Data Structures & Algorithms**, system design, and advanced backend development  <br><br>💬 Ask me about  <br>MERN stack, DSA, building projects from scratch, or startup ideas  <br><br>⚡ Fun fact  <br>I’m an EEE student who loves turning ideas into real products 🚀
 
 
 ## 🌐 Socials:
